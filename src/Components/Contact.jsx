@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <div className="container contact-form">
+    <div className="container contact-form" data-aos="zoom-in">
       <div className="contact-image">
         <img src="https://image.ibb.co/kUagtU/rocket_contact.png" alt="rocket_contact" />
       </div>

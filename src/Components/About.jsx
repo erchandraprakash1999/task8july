@@ -5,7 +5,7 @@ const About = () => {
         <div className="container">
       <div className="main-body">
         <div className="row">
-          <div className="col-lg-4">
+          <div className="col-lg-4" data-aos="fade-right">
             <div className="card">
               <div className="card-body">
                 <div className="d-flex flex-column align-items-center text-center">
@@ -133,7 +133,7 @@ const About = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-8">
+          <div className="col-lg-8"data-aos="fade-left">
             <div className="card">
               <div className="card-body">
                 <div className="row mb-3">
