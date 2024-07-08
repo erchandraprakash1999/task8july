@@ -12,7 +12,7 @@ const Header = () => {
           }
         `}
       </style>
-      <nav className="navbar navbar-expand-md bg-dark">
+      <nav className="navbar sticky-top navbar-expand-md bg-dark">
         <a
           href="#"
           className="navbar-brand ml-5 text-light"
